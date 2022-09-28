@@ -1,0 +1,89 @@
+body {
+    background-color: rgba(245, 222, 179, 0.33);
+}
+/*SESSÃO 1*/
+.sessão-1, .logo{   
+    margin: 0px auto;
+    width: 200px;
+    right: 100px;
+    text-align: center;
+    color: rgb(86, 46, 3);
+}
+.sobre {
+    padding-right: 15px;
+    color: rgb(140, 73, 1);
+    text-align: center;
+}
+
+.produto {
+    padding-right: 15px;
+    color: rgb(140, 73, 1);
+    text-align: center;
+}
+
+.contato {
+    padding-right: 15px;
+    color: rgb(140, 73, 1);
+    text-align: center;
+}
+.linha {
+    width: 700px;
+    margin: 0px auto;
+    margin-top: 20px;
+    border: 1px solid rgb(172, 118, 2);
+}
+
+/*SESSÃO 2*/
+.logo-2 {
+    width: 600px;
+    right: auto;
+}
+.sessão-2 {
+    text-align: center;
+
+}
+
+h2 {
+    color: rgb(215, 156, 6);
+}
+
+/*SESSÃO 3*/
+
+.conteiner-laranja {
+    margin: 0px auto;
+    width: 600px;
+    right: 250px;
+    background-color: rgb(255, 136, 0);
+    text-align: center;
+    color: aliceblue;
+    padding-bottom: 20px ;
+}
+
+.titulo-3 {
+    font-size: 25px;
+    padding-top: 30px;
+}
+
+.titulo-4 {
+    font-size: 22px;
+}
+.p-3{
+    font-size: 25px;
+    line-height: 15px;
+    font-size: 18px;
+}
+
+.img-laranja {
+    margin-top: 10px;
+    width: 380px;
+    right: 0px auto;
+}
+
+/*Contato*/
+
+.contato {
+    text-align: center;
+}
+span {
+    font-weight: bold;
+}
